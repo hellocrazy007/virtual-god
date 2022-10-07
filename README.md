@@ -5,7 +5,7 @@
 功能包括：命理推算，八字精批，每天运气，时时运气，塔罗占卜，星座运势，虚拟大神（机器人，后面单独发布，可以做大仙主播，虚拟人聊天测算提醒等）
 
 
-<img width="300px" src="images/qrcode.jpg"/>
+<img width="300px" src="https://repository-images.githubusercontent.com/547095284/9f7005b0-47a1-449b-9e68-007a77ba0062"/>
 
 
 #### 源码结构
